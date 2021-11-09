@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kseoul
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python, JavaScript, C#
 - 🌱 I’m currently learning software engineering with Django, React, Python, Angular and JS
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me ...
